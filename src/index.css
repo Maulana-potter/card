@@ -41,7 +41,7 @@ body {
   height: 360px;
   color: #fffff9;
   border-radius: 1rem 1rem 0 0;
-  background: url("pp.jpg") no-repeat center top;
+  background: url("/pp.jpg") no-repeat center top;
   transition: background-size 1.5s ease-in-out;
   background-size: 100%;
 }
